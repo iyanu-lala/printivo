@@ -1,0 +1,78 @@
+.nav-bar {
+   color: #ECE8D9; 
+}
+.nav-link3 {
+    text-decoration: none;
+    /* padding-left: 200px; */
+    font-size: 12.9px;
+    color: #506683;
+    line-height: 19.35px;
+}
+.nav-link1 {
+    text-decoration: none;
+    font-size: 12.9px;
+    color: #506683;
+    line-height: 19.35px;
+    padding-top: 12px;
+}
+.nav-link2 {
+    text-decoration: none;
+    font-size: 12.9px;
+    color: #506683;
+    line-height: 19.35px;
+    padding-top: 12px;
+}
+.navbar-brand {
+    text-decoration: none;
+    font-size: 12.9px;
+    color: #506683;
+    line-height: 19.35px;
+}
+/* .nav-link4 {
+    font-size: 12.9px;
+    font-weight: 600;
+} */
+/* @import url('https://fonts.googleapis.com/css2?family=Libre+Franklin:ital,wght@0,100..900;1,100..900&display=swap'); */
+.nav-link {
+    font-size: 14.5px;
+    color: #3c617a;
+     /* font-family: "Libre Franklin", sans-serif; */
+     font-weight: 600;
+}
+.nav-link:hover {
+    color: #536986;
+}
+/* @import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap'); */
+.sign {
+    font-size: 14.5px;
+    font-weight: 600;
+    /* font-family: "Montserrat", sans-serif; */
+    color: #D78384;
+    text-decoration: none;
+    padding-left: 70px;
+}
+.f419 {
+    background-color: #ECE8D9;
+}
+.Quality {
+    Font-size: 65px;
+    color: #384A62;
+}
+.print {
+    background-color: #ECE8D9;
+}
+.ship {
+    color: #708095;
+}
+.what {
+    color: #384A62;
+}
+.textp {
+    background-color: #ECE8D9;
+}
+.image {
+    height: 420px;
+    /* padding-left: 400px; */
+    padding-top: 80px;
+    object-fit: cover;
+}
